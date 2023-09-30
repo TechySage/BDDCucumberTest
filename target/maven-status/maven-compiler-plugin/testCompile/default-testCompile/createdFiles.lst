@@ -1,0 +1,10 @@
+pageObject\AdminHomePage.class
+TestRunner\TestRun.class
+Utilities\ReadConfig.class
+pageObject\AddNewCustomerPage.class
+Utilities\DriverFactorty.class
+Steps\BaseSteps.class
+Steps\CustomerStep.class
+TestRunner\Runner.class
+pageObject\SearchCustomerPage.class
+pageObject\loginPage.class
